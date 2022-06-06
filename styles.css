@@ -88,3 +88,45 @@ body{
     color: #84889b;
     text-align: center;
 }
+
+.sss{
+    padding-top: 100px;
+}
+
+.sp{
+    font-style: italic;
+    font-size: 36px;
+}
+.bg{
+    background-color: #84889b;
+}
+
+#pp{
+    margin-left: 500px;
+    font-size: 20px;
+    font-weight: bolder;
+}
+.bgg{
+    padding: 20px 0px;
+}
+
+.linear2{
+    margin: 30px 250px;
+    padding: 10px;
+}
+
+.blue{
+    display: flex;
+    border-radius: 10px;
+    padding: 30px 50px;
+    background-color: #3882F6;
+}
+
+.btn{
+    width: 100px;
+    margin-left: 150px;
+    background-color: #3882F6;
+    color: white;
+    border: 1px solid white;
+    border-radius: 8px;
+}
